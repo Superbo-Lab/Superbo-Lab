@@ -7,7 +7,7 @@
 ---
 
 ### 关于我
-
+- 05 本科在读
 - 正在学习编程与软件开发
 - 喜欢探索新技术，并通过项目实践提升自己
 - 正在逐步完善我的 GitHub 主页和项目作品
@@ -16,8 +16,9 @@
 ### 技术工具
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,java&perline=7" />
 </p>
+
 
 ### GitHub 数据
 
@@ -31,6 +32,21 @@
 </p>
 
 ---
+### 实验经历
+
+#### YOLOv8 目标检测项目实验
+
+- 基于 **Ultralytics YOLOv8** 完成目标检测实验，熟悉开发环境配置与模型使用流程。
+- 参与数据集整理与标注检查，完成模型训练、验证及推理测试。
+- 观察并分析检测结果，了解置信度、精确率、召回率等常用评估指标。
+- 通过实验加深了对目标检测流程和深度学习模型训练的理解。
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat" />
+  <img src="https://img.shields.io/badge/Ultralytics-5C2D91?style=flat" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Superbo-Lab&label=Profile%20Views&color=blueviolet&style=flat" />
