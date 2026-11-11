@@ -22,11 +22,23 @@
 
 ### GitHub 数据
 
+<!-- GitHub 奖杯 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Superbo-Lab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superbo-Lab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Superbo-Lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
+<!-- 贡献活动趋势图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Superbo-Lab&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- 语言与提交统计 -->
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Superbo-Lab&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Superbo-Lab&theme=tokyonight" />
+</p>
+
+<!-- 连续贡献记录 -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Superbo-Lab&theme=tokyonight&hide_border=true" />
 </p>
